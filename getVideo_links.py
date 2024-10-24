@@ -24,7 +24,7 @@ def retrieve_urls(citations: list):
         if found:
             break
     # links_out = {"Video_Links": [{"mimeType": "video/webm","url": link} for link in media_urls], "Subtitle": [{"url": link} for link in subtitles]}
-    links_out = {"Video_Links": [{"mimeType": "video/webm","url": link} for link in media_urls], "Subtitle": "Source: " + subtitles[0]}
+    links_out = {"Video_Links": [{"mimeType": "video/webm","url": link} for link in media_urls], "Subtitle": "Source: " + list(subtitles)[0]}
     links_out["qty"] = len(media_urls)
 
     return links_out
