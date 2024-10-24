@@ -13,7 +13,7 @@ def home():
 @app.route('/get-video-urls', methods=["POST"])
 def get_citations():
     citations = request.json
-    # print(citations)
+    print(citations)
     citations = citations.get("CitationSources")
     #print(citations)
     links_out = getVideo_links.retrieve_urls(citations)
