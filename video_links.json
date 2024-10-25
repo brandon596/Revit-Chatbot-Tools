@@ -46,7 +46,7 @@
         "Remarks": "When using the Parallel Conduits tool, always select the bottom most conduit.",
         "Video URL": "https://help.autodesk.com/videos/A3dXRpazoVe5tGhMF47dpVrdGptMc9q_/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-F3EAFD28-3B52-46F4-9C2C-63607A0B1E96.htm",
-        "Related URLs": ""
+        "Related URLs": "https://help.autodesk.com/cloudhelp/2022/ENU/Revit-MEPEng/files/GUID-CDC015AE-ECD6-4635-B2C8-6495AC2EE946.htm"
     },
     {
         "Title": "Create an MEP Fabrication Model in Revit",
@@ -86,9 +86,9 @@
     {
         "Title": "Create a View Template",
         "Remarks": "",
-        "Video URL": "",
-        "Page URL": "",
-        "Related URLs": ""
+        "Video URL": "https://youtu.be/fv7BeriyC94?si=qJsC43Ine21U1q8R&t=133",
+        "Page URL": "https://youtu.be/fv7BeriyC94?si=qJsC43Ine21U1q8R&t=133",
+        "Related URLs": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-A84B0E96-DD75-4D3E-AB24-C723839873FD.htm"
     },
     {
         "Title": "Create a Project Parameter",
