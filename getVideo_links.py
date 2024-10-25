@@ -10,7 +10,7 @@ def retrieve_urls(citations: list):
     found = False
     video_links = load_json_file()
     media_urls = set()
-    subtitles = set()
+    subtitles = ""
     for row in video_links:
         source_to_show = row["Page URL"]
         related_links = row["Related URLs"]
@@ -19,12 +19,12 @@ def retrieve_urls(citations: list):
         for citation in citations:
             if citation["Url"] in all_urls:
                 media_urls.add(video_URL)
-                subtitles.add(source_to_show)
+                subtitles = source_to_show
                 found = True
         if found:
             break
     # links_out = {"Video_Links": [{"mimeType": "video/webm","url": link} for link in media_urls], "Subtitle": [{"url": link} for link in subtitles]}
-    links_out = {"Video_Links": [{"mimeType": "video/webm","url": link} for link in media_urls], "Subtitle": "Source: " + list(subtitles)[0]}
+    links_out = {"Video_Links": [{"mimeType": "video/webm","url": link} for link in media_urls], "Subtitle": "Source: " + subtitles}
     links_out["qty"] = len(media_urls)
 
     return links_out
