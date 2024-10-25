@@ -1,8 +1,8 @@
 from flask import Flask, request, jsonify
 import getVideo_links
-# import torch
-# from sentence_transformers import SentenceTransformer
-# import numpy as np
+import torch
+from sentence_transformers import SentenceTransformer
+import numpy as np
 
 app = Flask(__name__)
 
