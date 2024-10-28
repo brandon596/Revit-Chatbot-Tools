@@ -21,7 +21,7 @@ app = Flask(__name__)
 def home():
     return "Home"
 
-@app.route('/get-video-urls', methods=["POST"])
+@app.route('/3oie09i2Wd22/get-video-urls', methods=["POST"])
 def get_citations():
     citations = request.json
     print(citations)
@@ -41,16 +41,16 @@ def semantic_search():
     similarity_scores = embedder.similarity(query_embedding, corpus_embeddings)[0]
     scores, indices = torch.topk(similarity_scores, k=top_k)
 
-    # print("\nQuery:", query)
-    # print("Top most similar sentences in corpus:")
+    print("\nQuery:", query)
+    print("Top most similar sentences in corpus:")
 
     for score, idx in zip(scores, indices):
         if score > CUT_OFF:
-            # print(corpus[idx], f"(Score: {score:.4f})")
+            print(corpus[idx], f"(Score: {score:.4f})")
             found_title = corpus[idx]
             found = True
         else:
-            # print("No similar results")
+            print("No similar results")
             found = False
     if found:
         for row in data:
