@@ -1,114 +1,212 @@
 [
     {
         "Title": "Duct Options Bar Settings",
-        "Remarks": "Use the Duct options to edit the elevations and dimensions of your ducts",
+        "Alternate titles for improved search": "Use the Duct options to edit the elevations and dimensions of your ducts",
         "Video URL": "https://help.autodesk.com/videos/e6236670-6ca7-11eb-ac49-418db6f289f6/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-148EF7EA-A0F1-495D-880F-EFA9006A4AB6",
         "Related URLs": ""
     },
     {
         "Title": "Placing Ducts",
-        "Remarks": "This video shows how routings for duct systems can be automatically generated. However, in this BIM module we will manually place the ducts as well.",
+        "Alternate titles for improved search": "This video shows how routings for duct systems can be automatically generated. However, in this BIM module we will manually place the ducts as well.",
         "Video URL": "https://help.autodesk.com/videos/JwcXRpazoYBg10Ih52tiSYpoq6IxoEcg/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-0C0BAD62-1742-4553-AC43-4D6C107332B6",
         "Related URLs": ""
     },
     {
         "Title": "Match Size or Elevation for Duct",
-        "Remarks": "Use Spacebar to inherit both Size and Elevation. Also works with pipes, cable trays and conduits",
+        "Alternate titles for improved search": "Use Spacebar to inherit both Size and Elevation. Also works with pipes, cable trays and conduits",
         "Video URL": "https://help.autodesk.com/videos/EwdnRpazriCqCYAbmkUD2SlVvk5PLPtu/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-79253FB7-FC5C-4485-8B77-4F333724BFCC",
         "Related URLs": ""
     },
     {
         "Title": "Generate a Pressure Report for Duct",
-        "Remarks": "May not be in syllabus",
+        "Alternate titles for improved search": "May not be in syllabus",
         "Video URL": "https://help.autodesk.com/videos/k2MHVpazrCpSYtvh3NIXkokIZ_HPCg0N/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-1DDA1C3C-E065-4134-8BCA-DA036AEA8A3B",
         "Related URLs": ""
     },
     {
         "Title": "Add Insulation and Lining to Duct or Pipes",
-        "Remarks": "",
+        "Alternate titles for improved search": "",
         "Video URL": "https://help.autodesk.com/videos/42dnRpazpsUW3gkCmzeAZaKdGWpwPbIF/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-BB1F39AE-1736-4E18-8916-3ADCFB03EF83",
         "Related URLs": ""
     },
     {
         "Title": "Placing Conduits",
-        "Remarks": "Adding conduits",
+        "Alternate titles for improved search": "Adding conduits",
         "Video URL": "https://help.autodesk.com/videos/1zcnRpazpym1YVWJFQvBvlaC4fhAGsXG/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-2FE99A85-BF1C-4375-8FB5-16FD4C5AA4E8",
         "Related URLs": "https://help.autodesk.com/cloudhelp/2022/ENU/Revit-MEPEng/files/GUID-D6A068AC-D65E-4D88-9781-FB13B1E6EBAA.htm, https://help.autodesk.com/cloudhelp/2022/ENU/Revit-MEPEng/files/GUID-6A309F30-1336-496E-B045-F3DBD0C62B0D.htm"
     },
     {
         "Title": "Place Parallel Conduits",
-        "Remarks": "When using the Parallel Conduits tool, always select the bottom most conduit.",
+        "Alternate titles for improved search": "When using the Parallel Conduits tool, always select the bottom most conduit.",
         "Video URL": "https://help.autodesk.com/videos/A3dXRpazoVe5tGhMF47dpVrdGptMc9q_/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-F3EAFD28-3B52-46F4-9C2C-63607A0B1E96",
         "Related URLs": "https://help.autodesk.com/cloudhelp/2022/ENU/Revit-MEPEng/files/GUID-CDC015AE-ECD6-4635-B2C8-6495AC2EE946.htm"
     },
     {
         "Title": "Create an MEP Fabrication Model in Revit",
-        "Remarks": "May or may not be in syllabus. Fabrication model. Uses the Fabrication Part tool in the Fabrication Panel.",
+        "Alternate titles for improved search": "May or may not be in syllabus. Fabrication model. Uses the Fabrication Part tool in the Fabrication Panel.",
         "Video URL": "https://help.autodesk.com/videos/xrYTVqMDE6O1zyLI12s5pgUEieyEVImr/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-22BE730D-8FC4-4525-9B54-6E9CCB245120",
         "Related URLs": ""
     },
     {
         "Title": "Convert an MEP Design Model to a Fabrication Model",
-        "Remarks": "May or may not be in syllabus. Fabrication model. Uses the Fabrication Part tool in the Fabrication Panel.",
+        "Alternate titles for improved search": "May or may not be in syllabus. Fabrication model. Uses the Fabrication Part tool in the Fabrication Panel.",
         "Video URL": "https://help.autodesk.com/videos/1yZDVqMDE63cSlGhLpE5Z3oPZ_0TGuRA/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-539DD6A5-DAF3-4ED0-9826-FDEAC1CC2A09",
         "Related URLs": ""
     },
     {
         "Title": "Fill Gaps in a Fabrication Model",
-        "Remarks": "May or may not be in syllabus. Fabrication model. Uses the Fabrication Part tool in the Fabrication Panel.",
+        "Alternate titles for improved search": "May or may not be in syllabus. Fabrication model. Uses the Fabrication Part tool in the Fabrication Panel.",
         "Video URL": "https://help.autodesk.com/videos/hhczVqMDE6tbYQUzpEcJGsuu4xHFB0VP/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-85CE0E3B-A870-4561-A763-8FE28B562989",
         "Related URLs": ""
     },
     {
         "Title": "Using the Space Naming Tool",
-        "Remarks": "",
+        "Alternate titles for improved search": "",
         "Video URL": "https://help.autodesk.com/videos/41M2FkNTE6rLVBI8eHdu2u9RB27e5O1h/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-4F1F2A33-7C0A-40E5-9096-1378924D65B7",
         "Related URLs": ""
     },
     {
         "Title": "Assigning or applying existing View Templates",
-        "Remarks": "When a View Template is assigned, the view settings cannot be changed and will update accordingly with the view template. This means that if the view template were to change, the views with the modified view template assigned will also match the changes in the view template. When a view template is applied, the view settings can still be changed but will not update together with the view template.",
+        "Alternate titles for improved search": "When a View Template is assigned, the view settings cannot be changed and will update accordingly with the view template. This means that if the view template were to change, the views with the modified view template assigned will also match the changes in the view template. When a view template is applied, the view settings can still be changed but will not update together with the view template.",
         "Video URL": "https://help.autodesk.com/videos/Z0Z2IxbDqz1pJ3YBakEklqBbP2VFBEZx/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-DD1AF833-EAA0-4C91-8CF3-EA8BB8B5C3D5",
         "Related URLs": ""
     },
     {
         "Title": "Create a View Template",
-        "Remarks": "",
+        "Alternate titles for improved search": "",
         "Video URL": "https://youtu.be/fv7BeriyC94?si=qJsC43Ine21U1q8R&t=133",
         "Page URL": "https://youtu.be/fv7BeriyC94?si=qJsC43Ine21U1q8R&t=133",
         "Related URLs": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-A84B0E96-DD75-4D3E-AB24-C723839873FD.htm"
     },
     {
         "Title": "Create a Project Parameter",
-        "Remarks": "Use Project Parameters to add custom information to elements in the model.",
+        "Alternate titles for improved search": "Use Project Parameters to add custom information to elements in the model",
         "Video URL": "https://help.autodesk.com/videos/o5d3ZmczqngYrDc7GVCMlg2ikIIa02AK/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-148EF7EA-A0F1-495D-880F-EFA9006A4AB6",
         "Related URLs": ""
     },
     {
         "Title": "Create sheets and title block",
-        "Remarks": "",
+        "Alternate titles for improved search": "",
         "Video URL": "https://help.autodesk.com/videos/ptdmJwaDE6-UwwNV1gv4TKoOBrbTNNEX/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-267C7626-F0B4-444A-9593-A3FB101C4F21",
         "Related URLs": ""
     },
     {
         "Title": "Custom revision numbering or how to add revision sequences",
-        "Remarks": "",
+        "Alternate titles for improved search": "",
         "Video URL": "https://help.autodesk.com/videos/00f1cf10-7094-11eb-ac49-418db6f289f6/video.webm",
         "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-97114780-F7A1-4685-BDDB-6C409F5624C0",
+        "Related URLs": ""
+    },
+    {
+        "Title": "Understanding View Range",
+        "Alternate titles for improved search": "",
+        "Video URL": "https://help.autodesk.com/videos/R5ZzIxZDE6xk2-sdsi-IpGwwOErNYuos/video.webm",
+        "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-26445846-A258-42D6-9FD3-25200A78BE7E",
+        "Related URLs": ""
+    },
+    {
+        "Title": "Create a Section or Callout View",
+        "Alternate titles for improved search": "",
+        "Video URL": "https://help.autodesk.com/videos/lkeHJ3aDE6x0OKMs69A4ja_IkeHmGrb6/video.webm",
+        "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-A53A29E3-3A3C-495E-B6F1-C252097D38F5",
+        "Related URLs": ""
+    },
+    {
+        "Title": "Using Section Box to limit the geometry shown in a view",
+        "Alternate titles for improved search": "",
+        "Video URL": "https://help.autodesk.com/videos/ZpbnZmczr-ccUSDVYSfbh7kBn2OG4--f/video.webm",
+        "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-C9EA51CB-3214-4BD8-AD55-3BEB1CCD15B6",
+        "Related URLs": ""
+    },
+    {
+        "Title": "Trim and Extend Element tool",
+        "Alternate titles for improved search": "",
+        "Video URL": "https://help.autodesk.com/videos/dwZ242NDE6kw_OOys1w0mL7w6MZVPFkt/video.webm",
+        "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-E16A2C94-22EC-4917-AE19-17AC619A486B",
+        "Related URLs": ""
+    },
+    {
+        "Title": "Measure distance or length tool",
+        "Alternate titles for improved search": "",
+        "Video URL": "https://help.autodesk.com/videos/6bce0ab0-9bf9-11ec-be76-03cc5d8068f8/video.webm",
+        "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-CEAD19AE-DC42-4EF9-B18A-59036B012281",
+        "Related URLs": ""
+    },
+    {
+        "Title": "Create and Use Scope Boxes",
+        "Alternate titles for improved search": "",
+        "Video URL": "https://help.autodesk.com/videos/B3aXA2ZDE6k4Qu0LQIIUQYH6r3n7PS6L/video.webm",
+        "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-7B299FE2-67FA-4BF9-B583-4F98A28341D7",
+        "Related URLs": ""
+    },
+    {
+        "Title": "Understanding Constraints",
+        "Alternate titles for improved search": "",
+        "Video URL": "https://help.autodesk.com/videos/E2bXkxbDr7LeNxiwJs9fkrzH16GOl6MP/video.webm",
+        "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-0D185F17-E53C-4ADD-B5C1-D7BAD2FE4507",
+        "Related URLs": ""
+    },
+    {
+        "Title": "Reveal Constraints",
+        "Alternate titles for improved search": "",
+        "Video URL": "https://help.autodesk.com/videos/B4Yzl3bzrR3UFZa2SKIalUUl_NBNyg5H/video.webm",
+        "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-C3C0CC29-3FC0-4050-B641-D631C895B739",
+        "Related URLs": ""
+    },
+    {
+        "Title": "Organize and Manage Views",
+        "Alternate titles for improved search": "",
+        "Video URL": "https://help.autodesk.com/videos/wzM3h3ZDE61OXB7hLrlVU2QYmyxQZGdF/video.webm",
+        "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-802E93CE-866D-4220-9337-4BEE81989F63",
+        "Related URLs": ""
+    },
+    {
+        "Title": "Revit User Interface",
+        "Alternate titles for improved search": "",
+        "Video URL": "https://help.autodesk.com/videos/97dfde60-54e0-11ea-86bb-6702fb65b9b8/video.webm",
+        "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-3197A4ED-323F-4D32-91C0-BA79E794B806",
+        "Related URLs": ""
+    },
+    {
+        "Title": "Create a New Custom System Type for Ducts and Pipes",
+        "Alternate titles for improved search": "",
+        "Video URL": "https://help.autodesk.com/videos/43d3Rpazo8ABrNZz4FifW6nysiaA7A2W/video.webm",
+        "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-FBDE2FF4-3AE7-412D-B937-131F1CC60AEE",
+        "Related URLs": ""
+    },
+    {
+        "Title": "Visibility/Graphics (VG) Settings",
+        "Alternate titles for improved search": "",
+        "Video URL": "https://help.autodesk.com/videos/0zMWQyMTE6oPQKP5CSCnlxmfWAlll_pP/video.webm",
+        "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-FB8D0ABE-8521-4EA0-A47E-FF3DEBC403A5",
+        "Related URLs": ""
+    },
+    {
+        "Title": "Placing or adding tags",
+        "Alternate titles for improved search": "Tag leader arrowhead properties",
+        "Video URL": "https://help.autodesk.com/videos/FyaHBmNDE6vNtjbp9KAoUsKRA6wKbMML/video.webm",
+        "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-555BB05A-3AFB-470D-BA3A-3A6C18ADD2A0",
+        "Related URLs": ""
+    },
+    {
+        "Title": "Customize Tag Information displayed",
+        "Alternate titles for improved search": "add more information to be displayed by tags, display certain properties of an element in the tag",
+        "Video URL": "https://help.autodesk.com/videos/lvdXVudToxWYj4EqP0F8deLlbG9b_KNH/video.webm",
+        "Page URL": "https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-1383D1BB-0FBA-40FB-9DCB-26E404835454",
         "Related URLs": ""
     }
 ]

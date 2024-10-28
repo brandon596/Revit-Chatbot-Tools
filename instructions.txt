@@ -1,0 +1,7 @@
+to run this for public access:
+Run the app first before proceeding
+1. Open a new terminal and run this:
+ssh -R 80:127.0.0.1:5000 nokey@localhost.run
+
+2. Copy the tunnel address and append it with /3oie09i2Wd22/semantic_search (note that tunnel address will change everytime you launch it unless you have an ssh key on https://admin.localhost.run/)
+3. Paste it into the HTTP requests URL
