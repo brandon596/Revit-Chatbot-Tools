@@ -5,7 +5,7 @@ import numpy as np
 
 def export_excel_to_json(): #only call or run when changes to excel are made
     # Load the Excel file
-    df = pd.read_excel("C:\\Users\\Brandon\\OneDrive - Singapore Polytechnic\\video_links.xlsx")
+    df = pd.read_excel("")
 
     df.fillna("", inplace=True)
 
