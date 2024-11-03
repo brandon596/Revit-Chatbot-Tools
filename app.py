@@ -46,11 +46,11 @@ def semantic_search():
 
     for score, idx in zip(scores, indices):
         if score > CUT_OFF:
-            print(corpus[idx], f"(Score: {score:.4f})")
+            print(corpus[idx], f"(Score: {score:.4f}) - PASS (>{CUT_OFF})")
             found_title = corpus[idx]
             found = True
         else:
-            print("No similar results")
+            print(corpus[idx], f"(Score: {score:.4f}) - FAIL (<{CUT_OFF})")
             found = False
     if found:
         for row in data:
@@ -77,6 +77,13 @@ def semantic_search():
                     "qty": 0
                     }
     return jsonify(output), 201
+
+@app.route('/3oie09i2Wd22/schema', methods=["POST"])
+def get_bot_schema_response():
+    citations = request.json
+    print(citations)
+    
+    return "OK", 201
 
 if __name__ == '__main__':
     app.run(debug=True)
